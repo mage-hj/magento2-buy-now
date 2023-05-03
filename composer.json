@@ -1,16 +1,20 @@
 {
-    "name": "techsevin/buynow",
+    "name": "mage-hj/buynow",
     "description": "Magento 2 buy-now plugin",
     "require": {
       "php": "~7.2.0|~8.2.0"
     },
     "type": "magento2-module",
     "version": "1.0.1",
-    
+    "license": [
+      "OSL-3.0",
+      "AFL-3.0"
+    ],
+  
     "authors": [
       {
-        "name": "Techsevin",
-        "email": "mounish@techsevin.com"
+        "name": "mage-hj",
+        "email": "hritik.jsl0112@.com"
       }
     ],
     "autoload": {
