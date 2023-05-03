@@ -1,0 +1,24 @@
+{
+    "name": "techsevin/buynow",
+    "description": "Magento 2 buy-now plugin",
+    "require": {
+      "php": "~7.2.0|~8.2.0"
+    },
+    "type": "magento2-module",
+    "version": "1.0.1",
+    
+    "authors": [
+      {
+        "name": "Techsevin",
+        "email": "mounish@techsevin.com"
+      }
+    ],
+    "autoload": {
+      "files": [
+        "registration.php"
+      ],
+      "psr-4": {
+        "Techsevin\\BuyNow\\": ""
+      }
+    }
+  }

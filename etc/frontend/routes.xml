@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- /**
+ * DISCLAIMER
+ *
+ * If you want to upgrade this module to later versions in the future, 
+ * do not add or alter this file.
+ * @category  Techsevin
+ * @package   Techsevin\BuyNow
+ * @author     Techsevin Solution LLP<mounish@techsevin.com>
+ * @copyright 2023 Techsevin Solution
+ */ -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
+    <router id="standard">
+        <route id="buynow" frontName="buynow">
+            <module name="Techsevin_BuyNow"/>
+        </route>
+    </router>
+</config>
