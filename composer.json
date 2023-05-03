@@ -2,7 +2,7 @@
     "name": "mage-hj/buynow",
     "description": "Magento 2 buy-now plugin",
     "require": {
-      "php": "~7.4|~8.1"
+      "php": "~7.4.0||~8.1.0"
     },
     "type": "magento2-module",
     "version": "1.0.1",
